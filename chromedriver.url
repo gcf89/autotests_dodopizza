@@ -1,1 +1,4 @@
 http://chromedriver.storage.googleapis.com/index.html
+
+ATTENTION: you cannto use say driver ver. 78 and chromium 77!
+Versions must strictly match
